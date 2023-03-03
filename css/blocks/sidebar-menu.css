@@ -1,0 +1,9 @@
+
+.sidebar-menu{ 
+    position: fixed;
+}
+
+.sidebar-menu__item{
+    font-size: 19px;
+    color: #0F141A;
+}
