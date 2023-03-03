@@ -4,6 +4,14 @@
 }
 
 .sidebar-menu__item{
+    display: flex;
+    align-items: center;
     font-size: 19px;
     color: #0F141A;
+}
+
+.sidebar-menu__item-icon{
+    display: block;
+    height: 26px;
+    margin-right: 20px;
 }
